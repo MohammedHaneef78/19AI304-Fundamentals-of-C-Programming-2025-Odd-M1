@@ -26,7 +26,11 @@ To build a C program that prints integer, float,character, and string literals o
 ### Step 4: 
    Stop
 # Program:
+<img width="803" height="495" alt="ipar1_1-program" src="https://github.com/user-attachments/assets/747666f9-4e7c-45a7-b596-141a5db2e454" />
+
 # Output:
+<img width="821" height="363" alt="ipar1-1output" src="https://github.com/user-attachments/assets/7524d282-6d0f-40c6-870d-fffa823e9c61" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -57,7 +61,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 6:  
   Stop
 # Program:
+<img width="812" height="374" alt="iapr1-2pro" src="https://github.com/user-attachments/assets/c176b389-3a55-445c-adbb-0c43491b55ab" />
+
 # Output:
+<img width="834" height="340" alt="iapr1-2out" src="https://github.com/user-attachments/assets/8cbeda01-3e6c-4fa1-a221-7bc53afcc054" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -81,8 +90,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+<img width="792" height="361" alt="iapr1-3pro" src="https://github.com/user-attachments/assets/9afb6dc8-2700-4558-945b-c2a9eb3054ca" />
 # Output:
+<img width="820" height="309" alt="iapr1-3out" src="https://github.com/user-attachments/assets/2cb72e5e-5a13-4d1c-a54a-d708f2e63e61" />
 # Result: 
+Thus, the program was implemented and executed successfully, and the required output was obtained.
 
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd
 # IAPR-1- Module 1 - FoC
@@ -120,7 +132,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="789" height="604" alt="iapr1-4pro" src="https://github.com/user-attachments/assets/aa83e66b-2e84-4515-ab3b-41e4c13ce30a" />
+
 # Output:
+<img width="819" height="564" alt="iapr1-4out" src="https://github.com/user-attachments/assets/d2e9e08b-f911-46e1-adc1-95982b4becfc" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -165,7 +181,12 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="793" height="536" alt="iapr1-5pro" src="https://github.com/user-attachments/assets/5c64dfc5-45fe-4f1e-b580-a7282ce210fb" />
+
 # Output:
+<img width="820" height="112" alt="iapr1-5out" src="https://github.com/user-attachments/assets/2b3bfc3b-e26c-4742-a684-5fcd5fcdb760" />
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
