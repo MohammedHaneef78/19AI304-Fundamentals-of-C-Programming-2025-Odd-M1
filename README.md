@@ -132,10 +132,14 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+
 <img width="789" height="604" alt="iapr1-4pro" src="https://github.com/user-attachments/assets/aa83e66b-2e84-4515-ab3b-41e4c13ce30a" />
 
 # Output:
+
 <img width="819" height="564" alt="iapr1-4out" src="https://github.com/user-attachments/assets/d2e9e08b-f911-46e1-adc1-95982b4becfc" />
+
+
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
