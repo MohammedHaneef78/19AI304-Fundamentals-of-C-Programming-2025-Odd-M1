@@ -90,9 +90,18 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 5:    
    Stop
 # Program:
+
 <img width="792" height="361" alt="iapr1-3pro" src="https://github.com/user-attachments/assets/9afb6dc8-2700-4558-945b-c2a9eb3054ca" />
+
+
+
 # Output:
 <img width="820" height="309" alt="iapr1-3out" src="https://github.com/user-attachments/assets/2cb72e5e-5a13-4d1c-a54a-d708f2e63e61" />
+
+
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -133,8 +142,16 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 # Program:
 <img width="789" height="604" alt="iapr1-4pro" src="https://github.com/user-attachments/assets/aa83e66b-2e84-4515-ab3b-41e4c13ce30a" />
+
+
+
 # Output:
+
 <img width="819" height="564" alt="iapr1-4out" src="https://github.com/user-attachments/assets/d2e9e08b-f911-46e1-adc1-95982b4becfc" />
+
+
+
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
